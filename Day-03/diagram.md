@@ -2,6 +2,7 @@
 
 ## Linux File System Structure
 
+```
 /
 ├── bin        → basic system commands
 ├── home       → user files
@@ -11,9 +12,11 @@
 ├── etc        → configuration files
 ├── var        → logs and variable data
 └── tmp        → temporary files
+```
 
 ## How User Interacts with Linux
 
+```
 User
   |
   v
@@ -24,3 +27,4 @@ Linux Kernel
   |
   v
 Hardware (CPU, RAM, Disk)
+```
