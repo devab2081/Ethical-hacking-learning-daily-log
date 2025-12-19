@@ -1,5 +1,4 @@
-# Questions – Day 5
-
-- What did I not fully understand today?
-- What should I revise again?
-- Interview or thinking questions
+### Questions
+- What happens if a website does not use HTTPS?
+- Can HTTPS fully prevent attacks?
+- Why do attackers target web applications?
