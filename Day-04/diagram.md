@@ -3,7 +3,6 @@
 ## What is Reconnaissance?
 
 ---
-
 Target System / Website
 |
 v
@@ -11,15 +10,11 @@ Information Collection
 |
 v
 Understanding the Target
-
-yaml
-Copy code
-
 ---
 
 ## Passive vs Active Reconnaissance
----
 
+---
 Reconnaissance
 │
 ├── Passive Reconnaissance
@@ -31,13 +26,11 @@ Reconnaissance
 ├── Direct interaction with target
 ├── Sends requests to systems
 └── Higher chance of detection
-
-
 ---
 
 ## Reconnaissance Flow (High Level)
----
 
+---
 Public Information
 |
 v
@@ -48,19 +41,16 @@ Attack Surface Understanding
 |
 v
 Better Security Decisions
-
-
 ---
 
 ## Why Reconnaissance Matters
+
 ---
 More Information
 |
 v
 Better Understanding of System
-
----
-
 |
 v
 Easier to Find Weak Points
+---
