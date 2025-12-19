@@ -1,5 +1,4 @@
-# Questions – Day 4
-
-- What did I not fully understand today?
-- What should I revise again?
-- Interview or thinking questions
+### Questions
+- Why do attackers prefer passive reconnaissance first?
+- What kind of information should not be publicly available?
+- How can organizations reduce reconnaissance risks?
