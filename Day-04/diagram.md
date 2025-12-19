@@ -2,6 +2,7 @@
 
 ## What is Reconnaissance?
 
+---
 
 Target System / Website
 |
@@ -17,6 +18,7 @@ Copy code
 ---
 
 ## Passive vs Active Reconnaissance
+---
 
 Reconnaissance
 │
@@ -30,12 +32,11 @@ Reconnaissance
 ├── Sends requests to systems
 └── Higher chance of detection
 
-yaml
-Copy code
 
 ---
 
 ## Reconnaissance Flow (High Level)
+---
 
 Public Information
 |
@@ -48,17 +49,18 @@ Attack Surface Understanding
 v
 Better Security Decisions
 
-yaml
-Copy code
 
 ---
 
 ## Why Reconnaissance Matters
-
+---
 More Information
 |
 v
 Better Understanding of System
+
+---
+
 |
 v
 Easier to Find Weak Points
