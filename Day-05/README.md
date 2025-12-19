@@ -1,9 +1,9 @@
-# 📘 Day 05 – Web Basics (HTTP & HTTPS)
+#  Day 05 – Web Basics (HTTP & HTTPS)
 
-## 📅 Date  
+##  Date  
 19-12-2025  
 
-## 🔍 Topics Learned  
+##  Topics Learned  
 - How websites work at a basic level  
 - What HTTP and HTTPS mean  
 - What requests and responses are  
