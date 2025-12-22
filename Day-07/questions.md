@@ -1,5 +1,4 @@
-# Questions – Day 7
-
-- What did I not fully understand today?
-- What should I revise again?
-- Interview or thinking questions
+### Questions
+- Why do developers forget input validation?
+- Are all databases vulnerable to SQL Injection?
+- How can testing detect SQL Injection issues?
