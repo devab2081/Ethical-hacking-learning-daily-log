@@ -1,5 +1,4 @@
-# Questions – Day 6
-
-- What did I not fully understand today?
-- What should I revise again?
-- Interview or thinking questions
+### Questions
+- Why do many applications fail basic security?
+- How often is OWASP Top 10 updated?
+- Can following OWASP Top 10 prevent all attacks?
