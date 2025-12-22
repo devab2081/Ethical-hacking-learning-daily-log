@@ -1,19 +1,19 @@
-# 📘 Day 06 – OWASP Top 10 (Overview)
+#  Day 06 – OWASP Top 10 (Overview)
 
-## 📅 Date  
+##  Date  
 20-12-2025  
 
-## 🔍 Topics Learned  
+##  Topics Learned  
 - What OWASP is  
 - What OWASP Top 10 means  
 - Why OWASP Top 10 is important  
 - Common types of web vulnerabilities  
 
-## 🛠 Tools / Platforms Used  
+##  Tools / Platforms Used  
 - OWASP website (overview)  
 - Beginner security articles  
 
-## 🧠 What I Learned Today  
+##  What I Learned Today  
 
 Today I learned about OWASP and the OWASP Top 10 list.  
 OWASP stands for Open Web Application Security Project.  
@@ -25,7 +25,7 @@ This list is updated regularly based on real-world security data.
 I understood that many real attacks happen because applications fail to follow basic security practices.  
 Learning OWASP Top 10 helps developers and security testers focus on the most important risks.
 
-## 🔑 Key Takeaways  
+##  Key Takeaways  
 - OWASP is a trusted security organization  
 - OWASP Top 10 lists common web risks  
 - Many attacks are preventable  
