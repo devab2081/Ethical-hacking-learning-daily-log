@@ -1,5 +1,5 @@
-# Personal Notes – Day 7
-
-- Short points
-- Things to revise
-- Important reminders
+### Personal Notes
+- SQL Injection affects databases
+- Happens due to unsafe input handling
+- Can bypass login systems
+- Prevention is possible with secure coding
