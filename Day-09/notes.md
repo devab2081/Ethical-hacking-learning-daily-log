@@ -1,5 +1,6 @@
-# Personal Notes – Day 9
-
-- Short points
-- Things to revise
-- Important reminders
+### Personal Notes
+- Authentication checks identity
+- Authorization controls access
+- Sessions keep users logged in
+- Session security is very important
+- Weak authentication leads to account attacks
