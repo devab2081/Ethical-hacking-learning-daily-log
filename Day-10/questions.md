@@ -1,5 +1,4 @@
-# Questions – Day 10
-
-- What did I not fully understand today?
-- What should I revise again?
-- Interview or thinking questions
+### Questions
+- Why should beginners focus on concepts before tools?
+- Can tools find all security issues automatically?
+- What are the risks of misusing security tools?
