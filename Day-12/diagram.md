@@ -1,9 +1,54 @@
-# Visual Diagram – Day 12
+# Day 12 – Penetration Testing (Visual Diagram)
 
-Use this file to add simple text-based diagrams.
-
-## Diagram
+## Penetration Testing Flow
 
 ```
-Add your visual diagram here
+Permission Given
+|
+v
+Simulated Attack
+|
+v
+Test Exploitation
+|
+v
+Measure Real Impact
+|
+v
+Improve System Security
+
+```
+---
+
+## Vulnerability Assessment vs Penetration Testing
+
+```
+Vulnerability Assessment
+│
+├── Finds weaknesses
+├── No exploitation
+└── Risk identification
+
+Penetration Testing
+│
+├── Tests exploitation
+├── Simulates attacks
+└── Measures impact
+
+```
+---
+
+## Ethical Rule in Penetration Testing
+
+```
+No Permission
+|
+v
+Illegal Activity
+
+Permission Given
+|
+v
+Ethical & Legal Testing
+
 ```
