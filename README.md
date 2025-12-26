@@ -1,4 +1,4 @@
-# 🔐 Ethical Hacking – Daily Learning Log
+#  Ethical Hacking – Daily Learning Log
 
 This repository documents my **daily journey of learning Ethical Hacking & Cybersecurity**.
 
@@ -7,7 +7,7 @@ All practices are done **legally** using labs and learning platforms.
 
 ---
 
-## 🎯 Learning Goals
+##  Learning Goals
 - Understand Cybersecurity fundamentals
 - Learn Ethical Hacking concepts step by step
 - Practice on legal platforms (TryHackMe, labs)
@@ -15,7 +15,7 @@ All practices are done **legally** using labs and learning platforms.
 
 ---
 
-## 📅 Daily Progress
+##  Daily Progress
 
 - Day 01 – Introduction to Ethical Hacking
 - Day 02 – Networking Basics
@@ -32,7 +32,7 @@ All practices are done **legally** using labs and learning platforms.
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 This repository is strictly for **educational purposes only**.
 No real-world systems are attacked.
 All learning is done in **controlled and legal environments**.
