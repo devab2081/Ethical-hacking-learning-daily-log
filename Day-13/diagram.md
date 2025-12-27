@@ -1,9 +1,36 @@
-# Visual Diagram – Day 13
+# Day 13 – Security Testing Methodologies (Visual Diagram)
 
-Use this file to add simple text-based diagrams.
-
-## Diagram
+## High-Level Security Testing Flow
 
 ```
-Add your visual diagram here
+Planning
+|
+v
+Information Gathering
+|
+v
+Security Testing
+|
+v
+Analysis
+|
+v
+Reporting
+
+```
+---
+
+## Why Methodology Matters
+
+```
+No Methodology
+|
+v
+Missed Security Areas
+
+With Methodology
+|
+v
+Complete & Organized Testing
+
 ```
