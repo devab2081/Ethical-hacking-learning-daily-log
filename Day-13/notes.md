@@ -1,5 +1,5 @@
-# Personal Notes – Day 13
-
-- Short points
-- Things to revise
-- Important reminders
+### Personal Notes
+- Methodology gives structure to testing
+- Avoids random testing
+- Improves consistency
+- Used in professional security testing
