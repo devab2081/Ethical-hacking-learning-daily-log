@@ -1,19 +1,19 @@
-# 📘 Day 13 – Security Testing Methodologies
+#  Day 13 – Security Testing Methodologies
 
-## 📅 Date  
+##  Date  
 27-12-2025  
 
-## 🔍 Topics Learned  
+##  Topics Learned  
 - What security testing methodology means  
 - Why methodologies are important  
 - High-level phases of security testing  
 - Difference between structured and unstructured testing  
 
-## 🛠 Tools / Platforms Used  
+##  Tools / Platforms Used  
 - Security articles  
 - OWASP documentation (overview)  
 
-## 🧠 What I Learned Today  
+##  What I Learned Today  
 
 Today I learned about security testing methodologies.  
 A security testing methodology is a structured approach used to test the security of systems and applications.
@@ -26,7 +26,7 @@ This makes the testing process more organized and reliable.
 
 Security testing methodologies are important because they ensure consistency and repeatability in testing.
 
-## 🔑 Key Takeaways  
+##  Key Takeaways  
 - Methodologies provide structure to security testing  
 - They help avoid incomplete testing  
 - Following steps improves test quality  
