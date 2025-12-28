@@ -1,9 +1,37 @@
-# Visual Diagram – Day 14
+# Day 14 – Web Application Architecture (Visual Diagram)
 
-Use this file to add simple text-based diagrams.
-
-## Diagram
+## Basic Web Application Architecture
 
 ```
-Add your visual diagram here
+User (Client)
+|
+v
+Web Browser / App
+|
+v
+Web Server
+|
+v
+Database
+
+```
+---
+
+## Data Flow Overview
+
+```
+Client Request
+|
+v
+Server Processing
+|
+v
+Database Access
+|
+v
+Server Response
+|
+v
+Client Display
+
 ```
