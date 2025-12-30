@@ -1,12 +1,6 @@
-# Simple Explanation – Day 16
+Personal Notes
 
-This file explains today's topic in simple terms for beginners.
-
-## What is this topic about?
--
-
-## Why is it important?
--
-
-## How it is used in security?
--
+Client-side improves user experience but not security
+Server-side is the real protection layer
+Always validate user input
+Never trust browser data

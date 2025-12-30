@@ -1,5 +1,6 @@
-# Questions – Day 16
+Questions
 
-- What did I not fully understand today?
-- What should I revise again?
-- Interview or thinking questions
+Why is client-side validation not secure?
+What happens if server-side validation is missing?
+Can attackers modify client-side code?
+Why must sensitive logic stay on the server?
