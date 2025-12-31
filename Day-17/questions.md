@@ -1,5 +1,5 @@
-# Questions – Day 17
+Questions
 
-- What did I not fully understand today?
-- What should I revise again?
-- Interview or thinking questions
+What is the difference between validation and sanitization?
+Why is blacklisting ineffective?
+How does parameterized query work?

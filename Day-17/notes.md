@@ -1,5 +1,6 @@
-# Personal Notes – Day 17
+Personal Notes
 
-- Short points
-- Things to revise
-- Important reminders
+Input validation = Checking if data is correct
+Sanitization = Cleaning data to be safe
+Always use both
+Parameterized queries automatically handle sanitization for SQL

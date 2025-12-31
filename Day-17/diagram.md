@@ -1,9 +1,15 @@
-# Visual Diagram – Day 17
+## Day 17 – Input Validation Flow
 
-Use this file to add simple text-based diagrams.
+User Input -> [Validation Layer] -> [Sanitization Layer] -> [Database]
 
-## Diagram
+[Validation Layer]
+Type Check (Int, String)
+Format Check (Email, Phone)
+Length Check
 
-```
-Add your visual diagram here
-```
+[Sanitization Layer]
+Escape HTML entities
+Remove SQL keywords
+Encode output
+
+Result: Safe Data

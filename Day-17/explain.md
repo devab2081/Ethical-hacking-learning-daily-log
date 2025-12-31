@@ -1,12 +1,5 @@
-# Simple Explanation – Day 17
+Explanation
 
-This file explains today's topic in simple terms for beginners.
-
-## What is this topic about?
--
-
-## Why is it important?
--
-
-## How it is used in security?
--
+Input Validation ensures the data matches expected format.
+Data Sanitization modifies the data to make it safe.
+Together they prevent injection attacks.
