@@ -1,5 +1,3 @@
-# Questions – Day 18
+Questions
 
-- What did I not fully understand today?
-- What should I revise again?
-- Interview or thinking questions
+To be added.

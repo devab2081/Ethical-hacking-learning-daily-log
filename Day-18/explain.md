@@ -1,12 +1,5 @@
-# Simple Explanation – Day 18
+Explanation
 
-This file explains today's topic in simple terms for beginners.
-
-## What is this topic about?
--
-
-## Why is it important?
--
-
-## How it is used in security?
--
+HTTP is the protocol of the web.
+Requests ask for resources or submit data.
+Responses provide the resource or status.

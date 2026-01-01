@@ -1,5 +1,6 @@
-# Personal Notes – Day 18
+Personal Notes
 
-- Short points
-- Things to revise
-- Important reminders
+Stateful vs Stateless protocol
+HTTPS encrypts the headers and body
+Keep-Alive headers
+User-Agent strings

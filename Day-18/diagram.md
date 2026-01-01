@@ -1,9 +1,15 @@
-# Visual Diagram – Day 18
+## Day 18 – HTTP Flow
 
-Use this file to add simple text-based diagrams.
+[Client] --(Request)--> [Server]
+[Client] <--(Response)-- [Server]
 
-## Diagram
+Request Structure:
+- Method (GET)
+- URL (/index.html)
+- Headers (Host, Cookie)
+- Body (for POST)
 
-```
-Add your visual diagram here
-```
+Response Structure:
+- Status Code (200 OK)
+- Headers (Server, Set-Cookie)
+- Body (HTML Content)
