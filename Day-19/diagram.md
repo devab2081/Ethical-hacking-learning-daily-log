@@ -1,9 +1,45 @@
-# Visual Diagram – Day 19
+# Day 19 – Cookies, Sessions, and Tokens (Visual Diagram)
 
-Use this file to add simple text-based diagrams.
-
-## Diagram
+## Cookie-Based Flow
+```
+User Browser
+|
+| Cookie
+v
+Web Server
 
 ```
-Add your visual diagram here
+---
+
+## Session-Based Flow
+
+```
+User Login
+|
+v
+Session Created (Server)
+|
+v
+Session ID Stored (Browser)
+|
+v
+User Requests
+
+```
+---
+
+## Token-Based Flow
+```
+
+User Login
+|
+v
+Token Issued
+|
+v
+Token Sent with Requests
+|
+v
+Server Verifies Token
+
 ```
