@@ -1,12 +1,21 @@
-# Simple Explanation – Day 19
+# Cookies, Sessions, and Tokens – Simple Explanation (Day 19)
 
-This file explains today's topic in simple terms for beginners.
+## What are Cookies?
+Cookies are small data files stored in the user’s browser.
+They are sent to the server with each request.
 
-## What is this topic about?
--
+## What are Sessions?
+Sessions store user information on the server.
+The browser only stores a session ID to identify the session.
 
-## Why is it important?
--
+## What are Tokens?
+Tokens are strings that represent user identity.
+They are often used in APIs and modern authentication systems.
 
-## How it is used in security?
--
+## Why Are These Important?
+Cookies, sessions, and tokens help web applications remember users.
+Improper handling can lead to security issues like unauthorized access.
+
+## Why Students Should Learn This
+Many web attacks target authentication and session management.
+Understanding these concepts is essential for web security.
