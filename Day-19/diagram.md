@@ -1,45 +1,7 @@
-# Day 19 – Cookies, Sessions, and Tokens (Visual Diagram)
+## Day 19 – Session Management
 
-## Cookie-Based Flow
-```
-User Browser
-|
-| Cookie
-v
-Web Server
-
-```
----
-
-## Session-Based Flow
-
-```
-User Login
-|
-v
-Session Created (Server)
-|
-v
-Session ID Stored (Browser)
-|
-v
-User Requests
-
-```
----
-
-## Token-Based Flow
-```
-
-User Login
-|
-v
-Token Issued
-|
-v
-Token Sent with Requests
-|
-v
-Server Verifies Token
-
-```
+1. Login Request -> Server
+2. Server verifies Creds -> Creates Session
+3. Server sends Cookie (SessionID) -> Client
+4. Client sends Cookie with next request -> Server
+5. Server validates SessionID -> Grants Access
