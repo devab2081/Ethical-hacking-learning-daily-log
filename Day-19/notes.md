@@ -1,5 +1,5 @@
-# Personal Notes – Day 19
-
-- Short points
-- Things to revise
-- Important reminders
+### Personal Notes
+- Cookies are stored in the browser
+- Sessions are server-side
+- Tokens are used for authentication
+- Session handling is critical for security
